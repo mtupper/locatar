@@ -12,11 +12,11 @@ This is a local Gen AI LLM Chatbot built using TypeScript and Node.js. It uses a
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/my-local-chatbot.git
+   git clone https://github.com/mtupper/locatar.git
    ```
 2. Install the dependencies:
    ```
-   cd my-local-chatbot
+   cd locatar
    npm install
    ```
 3. Start the OpenSearch server on `localhost:9200` with the default admin credentials.
